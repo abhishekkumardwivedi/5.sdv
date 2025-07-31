@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.0.6">
   <diagram name="Page-1" id="TT2wAq0QS9aLsSIHf4fw">
-    <mxGraphModel>
+    <mxGraphModel dx="1025" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m7Iq-KHu5-Q3n_7qO7-3-1" value="trout" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m7Iq-KHu5-Q3n_7qO7-3-2" value="&lt;div align=&quot;left&quot;&gt;&lt;pre dir=&quot;ltr&quot;&gt;coqos-virtio-blk&lt;br&gt;coqos-virtio-net&lt;br&gt;coqos-virtio-video&lt;br&gt;coqos-virtio-console&lt;br&gt;coqos-virtio-rng&lt;br&gt;coqos-virtio-vsock&lt;br&gt;coqos-virtio-gpu-virgl&lt;br&gt;coqos-virtio-scmi&lt;br&gt;coqos-virtio-input&lt;br&gt;coqos-virtio-snd&lt;br&gt;dumpstate_grpc_server&lt;br&gt;systemd&lt;br&gt;vehicle_hal_grpc_server&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="180" height="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
